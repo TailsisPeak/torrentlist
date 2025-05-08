@@ -1,3 +1,4 @@
 Name: "Perfect Heist 2"
 Size: 9 GB
 Desc: "Perfect Heist 2 is a round-based online game, where robbers try to hide in plain sight while robbing a bank without being noticed by the cop team!"
+DLDir: "C:\Program Files\tailssftwre"
