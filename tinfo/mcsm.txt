@@ -1,3 +1,4 @@
 Name: "Minecraft Story Mode"
 Size: 4 GB
 Desc: "Minecraft Story Mode EP1-5"
+DLDir: "C:\Program Files\tailssftwre\mcsm\"
