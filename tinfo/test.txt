@@ -1,0 +1,4 @@
+Name: "Test"
+Size: 1 Kb
+Desc: "Download this tyler"
+DLDir: "%HOMEPATH%\desktop\"
